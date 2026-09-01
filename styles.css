@@ -1,0 +1,71 @@
+body {
+    background-color: #f8fbfc; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header {
+    text-align: center;
+}
+
+.avatar {
+    width: 350px;
+    height: 350px;
+}
+
+.header_title{
+font-size: 28px;
+}
+
+.header_subtitle {
+color: #1085ac;
+}
+
+
+main {
+    border: 1px solid darkgray;
+    text-align: center;
+}
+
+.skills ol {
+list-style: none;
+}
+
+.separator {
+    width: 50%;
+    height: 3px;
+    background-color: aqua;
+}
+
+.video {
+    width: 800px;
+    height: 490px;
+}
+
+.ed_table {
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+.ed_table th,
+.ed_table td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.quote {
+
+    font-size: 32px;
+}
+.form {
+    width: 600px;
+    margin:0  auto;
+}
+.form inputcontrol  {
+
+    width: 100%;
+}
+        
+.form_submit {
+    display: block;
+    margin: 0 auto;
+}

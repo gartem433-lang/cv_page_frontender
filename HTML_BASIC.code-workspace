@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../HTML_BASIC"
+		},
+		{
+			"path": "../styles_html"
+		},
+		{
+			"path": "../styles1_html"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "assets_html"
+	}
+}
